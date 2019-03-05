@@ -34,4 +34,3 @@ While running the test there will be some error messages like __ResourceWarning:
 ### __Other Details__
 1. Filters used for validation : The framework uses (Erstzulassung-2015 and Höchster Preis)
 2. Ability to run tests for different browsers/OS/Environments by configuring - the driver and a small piece of code in the main class Currently chrome is supported
-3. The framework uses Pyunit
